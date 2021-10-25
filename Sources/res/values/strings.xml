@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kyvadlo</string>
+    <string name="lib_name">kyvadlo</string>
+    <string name="package_name">com.github.eetagent.kyvadlo</string>
+</resources>
